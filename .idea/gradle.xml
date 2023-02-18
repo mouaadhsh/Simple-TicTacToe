@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
